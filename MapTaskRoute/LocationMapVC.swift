@@ -41,7 +41,7 @@ class LocationMapVC: UIViewController,CLLocationManagerDelegate,SendAllLatLong{
         self.long3 = long3
         self.lat4 = lat4
         self.long4 = long4
-        self.long5 = long5
+      
     }
     
     @IBAction func createRoute(_ sender: UIButton) {
