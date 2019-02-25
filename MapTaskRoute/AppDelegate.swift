@@ -1,10 +1,7 @@
-//
 //  AppDelegate.swift
 //  MapTaskRoute
-//
 //  Created by vaayoo on 29/07/18.
 //  Copyright © 2018 vaayoo. All rights reserved.
-//
 
 import UIKit
 import GoogleMaps
