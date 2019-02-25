@@ -1,7 +1,7 @@
 //  AddressePickUps.swift
 //  MapTaskRoute
-//  Created by vaayoo on 30/07/18.
-//  Copyright © 2018 vaayoo. All rights reserved.
+//  Created by Ranjeet Raushan on 29/07/18.
+//  Copyright © 2018 Vaayoo. All rights reserved.
 
 import UIKit
 protocol SendAllLatLong {
